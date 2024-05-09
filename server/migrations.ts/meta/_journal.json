@@ -15,6 +15,62 @@
       "when": 1714464652316,
       "tag": "0001_freezing_daimon_hellstrom",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1714551856283,
+      "tag": "0002_flowery_ricochet",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1714573472991,
+      "tag": "0003_low_harrier",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1714574639083,
+      "tag": "0004_broken_captain_midlands",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1714613320272,
+      "tag": "0005_mysterious_blockbuster",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1714614309001,
+      "tag": "0006_high_iron_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1714614485108,
+      "tag": "0007_smart_black_knight",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1714615096323,
+      "tag": "0008_abnormal_moon_knight",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1715178239457,
+      "tag": "0009_dry_energizer",
+      "breakpoints": true
     }
   ]
 }

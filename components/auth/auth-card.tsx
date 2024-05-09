@@ -17,20 +17,20 @@ export const AuthCard = ({
     backButtonLabel,
     showSocials,
 }: CardWrapperProps) => {
-    return(
-    <Card>
-        <CardHeader>
-            <CardTitle>{cartTitle}</CardTitle>
-        </CardHeader>
-        <CardContent>{children}</CardContent>
-        {showSocials && (
+    return (
+        <Card>
+            <CardHeader>
+                <CardTitle>{cartTitle}</CardTitle>
+            </CardHeader>
+            <CardContent>{children}</CardContent>
+            {showSocials && (
+                <CardFooter>
+                    <Socials />
+                </CardFooter>
+            )}
             <CardFooter>
-                <Socials />
+                <BackButton href={backButtonHref} label={backButtonLabel} />
             </CardFooter>
-        )}
-        <CardFooter>
-            <BackButton href={backButtonHref} label={backButtonLabel} />
-        </CardFooter>
-    </Card>
+        </Card>
     )
 }
